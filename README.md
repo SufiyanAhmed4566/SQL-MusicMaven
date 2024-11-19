@@ -1,13 +1,13 @@
 #SQL Project: Music Store Analysis
 
-##Project Overview*
+##Project Overview
 This SQL project analyzes a music store database, demonstrating expertise in database design, query optimization, and data analysis. The project utilizes PostgreSQL and PgAdmin4.
 
-##Database Tools*
+##Database Tools
 - PostgreSQL
 - PgAdmin4
 
-##Project Contents*
+##Project Contents
 - `music_store_database.sql`: Database file containing schema and data
 - `query_questions.pdf`: Set of query questions (Easy, Medium, Hard)
 - `answered_queries.sql`: Solutions to query questions
@@ -19,18 +19,18 @@ The project includes a set of query questions, categorized by difficulty level:
 - Medium: JOINs, subqueries, aggregations, and grouping
 - Hard: Complex JOINs, window functions, and advanced aggregations
 
-##Getting Started*
+##Getting Started
 1. Import the `music_store_database.sql` file into your PostgreSQL database.
 2. Review the database schema and ER diagram.
 3. Attempt to answer the query questions.
 4. Compare your solutions with the provided answers.
 
-##Use Cases*
+##Use Cases
 - Music store management
 - Data analysis and reporting
 - Business intelligence and decision-making
 
-##Tags*
+##Tags
 - SQL
 - PostgreSQL
 - Database
